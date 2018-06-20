@@ -1,0 +1,30 @@
+
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+
+        <item name="android:actionBarStyle">@style/actionBarBackground</item>
+        <item name="actionBarStyle">@style/actionBarBackground</item>
+        <item name="android:colorPrimaryDark">#ff1791ff</item>
+
+
+    </style>
+
+        <style name="actionBarBackground" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+            <item name="android:background">#ff289fff</item>
+            <item name="background">@color/blue</item>
+        </style>
+        <style name="sendMessageStyle">
+            <item name="android:textColor">#ffe36f2d</item>
+        </style>
+        <color name="blue">#ff289fff</color>
+        <color name="white_opaque">#fffffbfb</color>
+    <style name="buttonBackground">
+        <item name="android:background">#ff9d8dff</item>
+    </style>
+</resources>
+
+
+

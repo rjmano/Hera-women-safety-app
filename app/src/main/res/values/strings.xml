@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HERA 2.0</string>
+    <string name="title_section0">HERA 2.0</string>
+    <string name="title_section1">HERA 2.0</string>
+    <string name="title_section2">SETTINGS</string>
+    <string name="title_section3">FEEDBACK</string>
+
+    <string name="sendMessage">Send Your Alert Message</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="pref_title_primary_contact">Primary Contact</string>
+    <string name="pref_title_primary_contact_email">Primary Email</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="appwidget_text">HERA 2.0</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="GPSAlertDialogTitle">GPS Alert</string>
+    <string name="GPSAlertDialogMessage">GPS Alert Message</string>
+    <string name="settings">GPS Settings</string>
+    <string name="cancel">Cancel</string>
+</resources>
